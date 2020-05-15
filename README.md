@@ -20,3 +20,8 @@
 ### review
 * 기존에 알던 것 : 파이썬, 크롤링, API 사용, csv, 레드마인
 * 새로 배울 것 : aws 서버 운영, ...?
+
+
+### 환경
+python 3.7.3 
+사용한 라이브러리 : requests, beautifulsoup4
