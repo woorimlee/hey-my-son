@@ -23,5 +23,5 @@
 
 
 ### 환경
-python 3.7.3 
-사용한 라이브러리 : requests, beautifulsoup4
+* python 3.7.3 
+* 사용한 라이브러리 : requests, beautifulsoup4
